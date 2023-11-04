@@ -1,0 +1,37 @@
+
+Topics:
+
+  Redux:
+    how to persist state in browser in storages
+
+    preloadedState: used to load the initial state from localStorage to Redux
+    middleWare: used to load the redux state into the storage when an action is triggered
+
+  Designing or Structuring the Layout for Applicaitons
+
+    Layout Parts:
+      1. Header ( NavBar )
+      2. Footer
+      3. Sidebar ( Left/Right )
+      4. Main Content
+    Refer: https://github.com/sanjaysaravanan/b49weeng-layouts
+    
+    React-Router-DOM - Outlet --> Letting Out the Inner Routes of any Route Element
+    Refer: App.jsx routes from ECommerce Application
+            https://github.com/sanjaysaravanan/b49weeng-ecommerce/blob/main/src/App.jsx
+
+Next Session:
+  Revision:
+    1. states props
+    2. state hook 
+    3. components
+    4. lifecycle of components
+    5. react-router-dom
+    6. context
+    7. useRef
+    8. useReducer
+    9. fetch vs axios
+
+  
+
+
